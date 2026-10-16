@@ -91,12 +91,12 @@ Applies the CircuitSage approach to a real crypto block. `python` `systemverilog
 </td>
 <td width="50%">
 
-<a href="https://github.com/pavannithin224-abcd/siliconLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavannithin224-abcd&repo=siliconLM&theme=tokyonight&hide_border=true" alt="siliconLM" />
+<a href="https://github.com/pavannithin224-abcd/Online-voting-system-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavannithin224-abcd&repo=Online-voting-system-&theme=tokyonight&hide_border=true" alt="online-voting-system" />
 </a>
 
-**siliconLM** — language-model experiments for silicon / hardware workflows.
-`python` `jupyter`
+**Online Voting System** — web-based voting application with a Python
+backend and an HTML interface. `python` `html`
 
 </td>
 </tr>
@@ -124,7 +124,7 @@ resources to needs under constraints. `python`
 </tr>
 </table>
 
-<sub>Also: <a href="https://github.com/pavannithin224-abcd/Online-voting-system-">Online-voting-system</a> — a Python voting-system build.</sub>
+<sub>Also: <a href="https://github.com/pavannithin224-abcd/siliconLM">siliconLM</a> — language-model experiments for silicon / hardware workflows.</sub>
 
 ## 📊 GitHub Stats
 
