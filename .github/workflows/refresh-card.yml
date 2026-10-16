@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download both themes (fox portrait + live stats)
+      - name: Download the card (fox portrait + live stats)
         env:
           HANDLE: pavannithin224-abcd
           GH_ASCII_URL: https://gh.crafter.run
@@ -29,15 +29,12 @@ jobs:
           curl -fsSL --retry 3 --retry-delay 5 \
             "$GH_ASCII_URL/$HANDLE?theme=dark&cols=100&bg=keep&image=$FOX" \
             -o dark_mode.svg
-          curl -fsSL --retry 3 --retry-delay 5 \
-            "$GH_ASCII_URL/$HANDLE?theme=light&cols=100&bg=keep&image=$FOX" \
-            -o light_mode.svg
 
       - name: Commit only if the card changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dark_mode.svg light_mode.svg
+          git add dark_mode.svg
           if git diff --cached --quiet; then
             echo "Card unchanged — nothing to commit."
           else

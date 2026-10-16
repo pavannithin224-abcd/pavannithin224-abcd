@@ -6,11 +6,8 @@
      Daily refresh keeps the stats current (.github/workflows/refresh-card.yml).
      ============================================================ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="pavannithin224-abcd — GitHub profile card" src="dark_mode.svg" width="100%" />
-</picture>
+<!-- Fox carries its own dark background, so the dark card is used in both GitHub themes. -->
+<img alt="pavannithin224-abcd — GitHub profile card" src="dark_mode.svg" width="100%" />
 
 <br/>
 
