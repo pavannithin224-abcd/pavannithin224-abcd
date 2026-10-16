@@ -131,8 +131,11 @@ resources to needs under constraints. `python`
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pavannithin224-abcd&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pavannithin224-abcd&hide_border=true&theme=tokyonight" alt="streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=pavannithin224-abcd&hide_border=true&theme=tokyonight" alt="streak" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pavannithin224-abcd&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+<br/><br/>
+
+<!-- Contribution heatmap (reliable host). The old line-graph service was returning HTTP 402 / quota-exceeded. -->
+<img width="98%" src="https://ghchart.rshah.org/8b5cf6/pavannithin224-abcd" alt="contribution heatmap" />
 
 </div>
