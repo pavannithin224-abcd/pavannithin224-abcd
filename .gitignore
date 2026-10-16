@@ -1,0 +1,20 @@
+# scratch / build artifacts — never committed to the profile repo
+node_modules/
+package.json
+package-lock.json
+*.mjs
+makefox.py
+fox.svg
+fox_preview.png
+foxemoji.svg
+foxbig.png
+foxtrans.png
+foxsrc.png
+fox_dark.*
+fox_dark.png
+foxA.*
+foxB.*
+light_mode.png
+dark_mode.png
+test_default.*
+getimg_test.svg
