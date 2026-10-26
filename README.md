@@ -57,9 +57,12 @@ Target: a 2027 VLSI / silicon internship. Everything here advances that.
 <tr>
 <td width="50%">
 
-<a href="https://github.com/pavannithin224-abcd/faultiva">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavannithin224-abcd&repo=faultiva&theme=tokyonight&hide_border=true" alt="faultiva" />
-</a>
+<h4><a href="https://github.com/pavannithin224-abcd/faultiva">🦊 faultiva</a></h4>
+<p>
+<img src="https://img.shields.io/github/stars/pavannithin224-abcd/faultiva?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/faultiva?style=flat-square&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/faultiva?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+</p>
 
 **Find the broken gate in a chip from its output alone.** Windows app or
 4.7 MB Python package — VLSI fault detection & localization, CPU-only, ~0.5 ms/query.
@@ -68,9 +71,12 @@ Target: a 2027 VLSI / silicon internship. Everything here advances that.
 </td>
 <td width="50%">
 
-<a href="https://github.com/pavannithin224-abcd/circuitsage-vlsi-fault-detection-v2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavannithin224-abcd&repo=circuitsage-vlsi-fault-detection-v2&theme=tokyonight&hide_border=true" alt="circuitsage-v2" />
-</a>
+<h4><a href="https://github.com/pavannithin224-abcd/circuitsage-vlsi-fault-detection-v2">🔬 circuitsage-vlsi-fault-detection-v2</a></h4>
+<p>
+<img src="https://img.shields.io/github/stars/pavannithin224-abcd/circuitsage-vlsi-fault-detection-v2?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/circuitsage-vlsi-fault-detection-v2?style=flat-square&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/circuitsage-vlsi-fault-detection-v2?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+</p>
 
 **Behaviour-signature VLSI fault localization.** Method, pre-registered
 contracts, audit trail. Six falsified formulations, one impossibility proof,
@@ -81,9 +87,12 @@ a structural bound. Study branch of CircuitSage. `python` `systemverilog`
 <tr>
 <td width="50%">
 
-<a href="https://github.com/pavannithin224-abcd/circuitsage-hmac-fault-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavannithin224-abcd&repo=circuitsage-hmac-fault-detection&theme=tokyonight&hide_border=true" alt="circuitsage-hmac" />
-</a>
+<h4><a href="https://github.com/pavannithin224-abcd/circuitsage-hmac-fault-detection">🔐 circuitsage-hmac-fault-detection</a></h4>
+<p>
+<img src="https://img.shields.io/github/stars/pavannithin224-abcd/circuitsage-hmac-fault-detection?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/circuitsage-hmac-fault-detection?style=flat-square&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/circuitsage-hmac-fault-detection?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+</p>
 
 **Graph-aware OpenTitan HMAC SA0/SA1 fault-detection** research prototype.
 Applies the CircuitSage approach to a real crypto block. `python` `systemverilog`
@@ -91,9 +100,12 @@ Applies the CircuitSage approach to a real crypto block. `python` `systemverilog
 </td>
 <td width="50%">
 
-<a href="https://github.com/pavannithin224-abcd/Online-voting-system-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavannithin224-abcd&repo=Online-voting-system-&theme=tokyonight&hide_border=true" alt="online-voting-system" />
-</a>
+<h4><a href="https://github.com/pavannithin224-abcd/Online-voting-system-">🗳️ Online-voting-system</a></h4>
+<p>
+<img src="https://img.shields.io/github/stars/pavannithin224-abcd/Online-voting-system-?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/Online-voting-system-?style=flat-square&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/Online-voting-system-?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+</p>
 
 **Online Voting System** — web-based voting application with a Python
 backend and an HTML interface. `python` `html`
@@ -103,9 +115,12 @@ backend and an HTML interface. `python` `html`
 <tr>
 <td width="50%">
 
-<a href="https://github.com/pavannithin224-abcd/wispviz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavannithin224-abcd&repo=wispviz&theme=tokyonight&hide_border=true" alt="wispviz" />
-</a>
+<h4><a href="https://github.com/pavannithin224-abcd/wispviz">🎵 wispviz</a></h4>
+<p>
+<img src="https://img.shields.io/github/stars/pavannithin224-abcd/wispviz?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/wispviz?style=flat-square&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/wispviz?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+</p>
 
 **Tiny transparent audio visualiser for Windows.** 11 animations, Screen mode,
 song panel. One ~180 KB exe, no dependencies, starts with Windows. `c++` `win32` `wasapi` `fft`
@@ -113,9 +128,12 @@ song panel. One ~180 KB exe, no dependencies, starts with Windows. `c++` `win32`
 </td>
 <td width="50%">
 
-<a href="https://github.com/pavannithin224-abcd/Disaster-Response-Resource-Allocator---SAHAYAK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pavannithin224-abcd&repo=Disaster-Response-Resource-Allocator---SAHAYAK&theme=tokyonight&hide_border=true" alt="SAHAYAK" />
-</a>
+<h4><a href="https://github.com/pavannithin224-abcd/Disaster-Response-Resource-Allocator---SAHAYAK">🆘 SAHAYAK</a></h4>
+<p>
+<img src="https://img.shields.io/github/stars/pavannithin224-abcd/Disaster-Response-Resource-Allocator---SAHAYAK?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/Disaster-Response-Resource-Allocator---SAHAYAK?style=flat-square&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/Disaster-Response-Resource-Allocator---SAHAYAK?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+</p>
 
 **SAHAYAK** — disaster-response resource allocator. Matches limited relief
 resources to needs under constraints. `python`
@@ -130,8 +148,10 @@ resources to needs under constraints. `python`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pavannithin224-abcd&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=pavannithin224-abcd&hide_border=true&theme=tokyonight" alt="streak" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavannithin224-abcd&theme=tokyonight" alt="profile summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavannithin224-abcd&theme=tokyonight" alt="top languages" height="180" />
+<img src="https://streak-stats.demolab.com/?user=pavannithin224-abcd&hide_border=true&theme=tokyonight" alt="streak" height="180" />
 
 <br/><br/>
 
