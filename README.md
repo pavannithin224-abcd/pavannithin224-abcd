@@ -53,6 +53,7 @@ Target: a 2027 VLSI / silicon internship. Everything here advances that.
 
 ## 🚀 Projects
 
+<!-- Silicon / VLSI / device-ML work leads; tools & apps follow. -->
 <table>
 <tr>
 <td width="50%">
@@ -100,15 +101,47 @@ Applies the CircuitSage approach to a real crypto block. `python` `systemverilog
 </td>
 <td width="50%">
 
-<h4><a href="https://github.com/pavannithin224-abcd/Online-voting-system-">🗳️ Online-voting-system</a></h4>
+<h4><a href="https://github.com/pavannithin224-abcd/endee-vlsi-fault-localizer">🧭 endee-vlsi-fault-localizer</a></h4>
 <p>
-<img src="https://img.shields.io/github/stars/pavannithin224-abcd/Online-voting-system-?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
-<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/Online-voting-system-?style=flat-square&labelColor=1a1b27" alt="top language" />
-<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/Online-voting-system-?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+<img src="https://img.shields.io/github/stars/pavannithin224-abcd/endee-vlsi-fault-localizer?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/endee-vlsi-fault-localizer?style=flat-square&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/endee-vlsi-fault-localizer?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
 </p>
 
-**Online Voting System** — web-based voting application with a Python
-backend and an HTML interface. `python` `html`
+**Noise-tolerant VLSI fault localization** on the Endee vector database —
+retrieves nearest fault behaviours so diagnosis survives response noise that
+exact dictionary lookup can't. Benchmarked on ISCAS-85 (c432/c880).
+`vlsi` `fault-localization` `vector-db` `iscas-85`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4><a href="https://github.com/pavannithin224-abcd/IVForge">⚡ IVForge</a></h4>
+<p>
+<img src="https://img.shields.io/github/stars/pavannithin224-abcd/IVForge?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/IVForge?style=flat-square&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/IVForge?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+</p>
+
+**Simulation-efficient CMOS transistor characterization.** Reproducible PyTorch
+research with SPICE-generated data, held-out geometry / operating-condition
+evaluation, and adaptive sampling. `pytorch` `spice` `cmos` `device-modeling`
+
+</td>
+<td width="50%">
+
+<h4><a href="https://github.com/pavannithin224-abcd/TinySPICE">🔌 TinySPICE</a></h4>
+<p>
+<img src="https://img.shields.io/github/stars/pavannithin224-abcd/TinySPICE?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/TinySPICE?style=flat-square&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/TinySPICE?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+</p>
+
+**Budget-aware, reliability-driven LLM agent** for reproducible MOSFET
+characterization (ngspice + SKY130). Pre-registered experiments, honest
+negative results. `llm-agent` `ngspice` `sky130` `mosfet`
 
 </td>
 </tr>
@@ -128,6 +161,21 @@ song panel. One ~180 KB exe, no dependencies, starts with Windows. `c++` `win32`
 </td>
 <td width="50%">
 
+<h4><a href="https://github.com/pavannithin224-abcd/Online-voting-system-">🗳️ Online-voting-system</a></h4>
+<p>
+<img src="https://img.shields.io/github/stars/pavannithin224-abcd/Online-voting-system-?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/Online-voting-system-?style=flat-square&labelColor=1a1b27" alt="top language" />
+<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/Online-voting-system-?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
+</p>
+
+**Online Voting System** — web-based voting application with a Python
+backend and an HTML interface. `python` `html`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 <h4><a href="https://github.com/pavannithin224-abcd/Disaster-Response-Resource-Allocator---SAHAYAK">🆘 SAHAYAK</a></h4>
 <p>
 <img src="https://img.shields.io/github/stars/pavannithin224-abcd/Disaster-Response-Resource-Allocator---SAHAYAK?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
@@ -137,53 +185,6 @@ song panel. One ~180 KB exe, no dependencies, starts with Windows. `c++` `win32`
 
 **SAHAYAK** — disaster-response resource allocator. Matches limited relief
 resources to needs under constraints. `python`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h4><a href="https://github.com/pavannithin224-abcd/endee-vlsi-fault-localizer">🧭 endee-vlsi-fault-localizer</a></h4>
-<p>
-<img src="https://img.shields.io/github/stars/pavannithin224-abcd/endee-vlsi-fault-localizer?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
-<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/endee-vlsi-fault-localizer?style=flat-square&labelColor=1a1b27" alt="top language" />
-<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/endee-vlsi-fault-localizer?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
-</p>
-
-**Noise-tolerant VLSI fault localization** on the Endee vector database —
-retrieves nearest fault behaviours so diagnosis survives response noise that
-exact dictionary lookup can't. Benchmarked on ISCAS-85 (c432/c880).
-`vlsi` `fault-localization` `vector-db` `iscas-85`
-
-</td>
-<td width="50%">
-
-<h4><a href="https://github.com/pavannithin224-abcd/IVForge">⚡ IVForge</a></h4>
-<p>
-<img src="https://img.shields.io/github/stars/pavannithin224-abcd/IVForge?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
-<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/IVForge?style=flat-square&labelColor=1a1b27" alt="top language" />
-<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/IVForge?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
-</p>
-
-**Simulation-efficient CMOS transistor characterization.** Reproducible PyTorch
-research with SPICE-generated data, held-out geometry / operating-condition
-evaluation, and adaptive sampling. `pytorch` `spice` `cmos` `device-modeling`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h4><a href="https://github.com/pavannithin224-abcd/TinySPICE">🔌 TinySPICE</a></h4>
-<p>
-<img src="https://img.shields.io/github/stars/pavannithin224-abcd/TinySPICE?style=flat-square&logo=github&color=8b5cf6&labelColor=1a1b27" alt="stars" />
-<img src="https://img.shields.io/github/languages/top/pavannithin224-abcd/TinySPICE?style=flat-square&labelColor=1a1b27" alt="top language" />
-<img src="https://img.shields.io/github/last-commit/pavannithin224-abcd/TinySPICE?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="last commit" />
-</p>
-
-**Budget-aware, reliability-driven LLM agent** for reproducible MOSFET
-characterization (ngspice + SKY130). Pre-registered experiments, honest
-negative results. `llm-agent` `ngspice` `sky130` `mosfet`
 
 </td>
 <td width="50%">
