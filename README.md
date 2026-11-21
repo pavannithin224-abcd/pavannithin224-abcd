@@ -17,6 +17,7 @@
 
 <p>
   <a href="https://github.com/pavannithin224-abcd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://pavan-d.pages.dev"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=cloudflarepages&logoColor=ff2a2a" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/pavan-d-96aab62a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pavan.d12233@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -34,6 +35,7 @@ Find the broken gate in a chip from its output alone, CPU-only, ~0.5 ms/query,
 with pre-registered contracts and a full audit trail.
 
 Target: a 2027 VLSI / silicon internship. Everything here advances that.
+Portfolio: https://pavan-d.pages.dev
 ```
 
 ## 🛠️ Tech Stack
