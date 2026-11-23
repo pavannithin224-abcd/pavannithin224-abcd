@@ -40,18 +40,42 @@ Portfolio: https://pavan-d.pages.dev
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,sklearn,linux,git,github,bash,vscode" alt="skills" />
-</p>
+**🔬 Silicon** — _where the faults live_
+<br/>
+![ngspice](https://img.shields.io/badge/ngspice-1f6feb?style=flat-square)
+![SKY130 PDK](https://img.shields.io/badge/SKY130_PDK-8b5cf6?style=flat-square)
+![Yosys](https://img.shields.io/badge/Yosys-4B0082?style=flat-square)
+![Verilator](https://img.shields.io/badge/Verilator-2E6E65?style=flat-square)
+![Verilog / RTL](https://img.shields.io/badge/Verilog_%2F_RTL-F6A800?style=flat-square&logo=verilog&logoColor=white)
+![ISCAS-85](https://img.shields.io/badge/ISCAS--85-555555?style=flat-square)
+![Stuck-at faults](https://img.shields.io/badge/Stuck--at_faults-8E44AD?style=flat-square)
+![I-V characterization](https://img.shields.io/badge/I--V_characterization-0A7E8C?style=flat-square)
 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0A7E8C?style=flat-square&logo=verilog&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-F6A800?style=flat-square&logoColor=white)
-![Verilator](https://img.shields.io/badge/Verilator-2E6E65?style=flat-square&logoColor=white)
-![Yosys](https://img.shields.io/badge/Yosys-4B0082?style=flat-square&logoColor=white)
-![VLSI](https://img.shields.io/badge/VLSI%20%2F%20EDA-8E44AD?style=flat-square&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Win32](https://img.shields.io/badge/Win32%20API-0078D6?style=flat-square&logo=windows&logoColor=white)
+**🧠 Machine** — _where the inference lives_
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" alt="ml" />
+<br/>
+![LLM agents](https://img.shields.io/badge/LLM_agents_·_typed_specs-ff6b6b?style=flat-square)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-7aa2f7?style=flat-square)
+![Vector search](https://img.shields.io/badge/Vector_search_·_ANN-16a34a?style=flat-square)
+![Active learning](https://img.shields.io/badge/Active_learning-d97706?style=flat-square)
+
+**⚙️ Systems** — _where it ships_
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,sqlite,cpp,c" alt="systems" />
+<br/>
+![Win32](https://img.shields.io/badge/Win32_API-0078D6?style=flat-square&logo=windows&logoColor=white)
+![SQLite FTS5](https://img.shields.io/badge/SQLite_FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_tooling-6e56cf?style=flat-square)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-2b5b84?style=flat-square)
+![Inno Setup](https://img.shields.io/badge/Inno_Setup-264de4?style=flat-square)
+
+**☁️ Cloud & DevOps** — _where it runs_
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel,cloudflare,docker,githubactions,git,linux,bash" alt="cloud" />
+<br/>
+![WSL2](https://img.shields.io/badge/WSL2-4EAA25?style=flat-square&logo=linux&logoColor=white)
+![Reproducible envs](https://img.shields.io/badge/Reproducible_envs-26a641?style=flat-square)
 
 ## 🚀 Projects
 
