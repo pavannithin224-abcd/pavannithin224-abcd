@@ -1,5 +1,5 @@
 # gh-ascii — daily card refresh
-# Re-downloads the fox + live-stats card once a day and commits only when it changed.
+# Re-downloads the face + live-stats card once a day and commits only when it changed.
 name: Refresh gh-ascii card
 
 on:
@@ -20,15 +20,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download the card (fox portrait + live stats)
+      - name: Download the card (face portrait + live stats)
         env:
           HANDLE: pavannithin224-abcd
           GH_ASCII_URL: https://gh.crafter.run
-          FOX: https://raw.githubusercontent.com/pavannithin224-abcd/pavannithin224-abcd/master/fox.png
+          FACE: https://raw.githubusercontent.com/pavannithin224-abcd/pavannithin224-abcd/master/face.png
         run: |
           curl -fsSL --retry 3 --retry-delay 5 \
-            "$GH_ASCII_URL/$HANDLE?theme=dark&cols=100&bg=keep&image=$FOX" \
+            "$GH_ASCII_URL/$HANDLE?theme=dark&cols=100&image=$FACE" \
             -o dark_mode.svg
+
+      - name: Re-apply the reveal animation (survives the fresh download)
+        run: python3 scripts/animate_svg.py dark_mode.svg
 
       - name: Commit only if the card changed
         run: |
